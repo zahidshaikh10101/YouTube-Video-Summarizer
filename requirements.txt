@@ -1,0 +1,11 @@
+youtube_transcript_api
+streamlit
+google-generativeai
+python-dotenv
+pathlib
+reportlab
+google-auth-oauthlib 
+google-auth-httplib2
+google-auth
+google-api-python-client
+googletrans
